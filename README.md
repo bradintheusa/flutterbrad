@@ -1,7 +1,6 @@
-# flutterbrad README
+# flutterbrad VS Code theme
 
 Copy from
 
-C:\work\github\flutterBrad
-to
-C:\Users\home\.vscode\extensions\flutterbrad
+copy C:\work\github\flutterBrad\flutterbrad\themes\*.*  C:\Users\home\.vscode\extensions\flutterbrad\themes
+

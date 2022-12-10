@@ -1,10 +1,10 @@
 {
 	"name": "Flutter by Brad",
 	"colors": {
-		"editor.background": "#222222",
-		"editor.foreground": "#9dcaf0",
+		"editor.background": "#353535",
+		"editor.foreground": "#53C67B",
 		"activityBarBadge.background": "#4b3402",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#ff99c8"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +15,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#E4572E"
+				"foreground": "#B48E3C"
 			}
 		},
 		{
@@ -25,7 +25,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#E4572E"
+				"foreground": "#13b9fd"
 			}
 		},
 		{
@@ -44,7 +44,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#f25d50"
 			}
 		},
 		{
@@ -75,7 +75,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#93ff89"
+				"foreground": "#d08c60"
 			}
 		},
 		{
@@ -86,7 +86,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#d9ae94"
 			}
 		},
 		{
@@ -149,7 +149,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#a7c957"
 			}
 		},
 		{
@@ -165,7 +165,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffca3a"
 			}
 		},
 		{
@@ -188,7 +188,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#772e25"
 			}
 		},
 		{
@@ -199,7 +199,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#c44536"
 			}
 		},
 		{
@@ -209,7 +209,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#f25d50"
 			}
 		},
 		{
